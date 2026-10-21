@@ -1,0 +1,5 @@
+/cinderdb
+*.exe
+*.aof
+.work/
+bin/
